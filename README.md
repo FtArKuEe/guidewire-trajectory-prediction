@@ -12,7 +12,7 @@ The objective is to predict future guidewire tip positions from historical traje
 * Data preprocessing and normalization
 * Sliding-window sequence generation
 * LSTM-based trajectory prediction
-* Multi-step prediction experiments
+* Explored multi-step trajectory prediction
 * Custom loss function incorporating Final Displacement Error (FDE)
 * Model evaluation using MSE, ADE, and FDE metrics
 
